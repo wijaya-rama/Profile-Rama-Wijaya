@@ -20,7 +20,7 @@ Over the past three years, I stepped directly into high-stakes operational plann
 - **Built data infrastructure from scratch**: when teams had no database, I built automated pipelines connecting Google Sheets through Apps Script into BigQuery and Looker Studio.
 - **Scaled data when Excel crashed**: when operational spreadsheets became too heavy, I spun up an Azure PostgreSQL pipeline linked directly to Excel templates, Power BI, and automated workflows.
 - **Enterprise ERP Rollouts**: validated opening balance ledgers and trained operational teams on Microsoft Dynamics 365 and Tally ERP.
-- **Investment & Business Auditing**: recently wrapped up a consulting contract (Sept 2026) with **AAM Investment Group**, auditing raw financial and operational metrics using SQL and Python to support investment decisions.
+- **Investment & Business Auditing**: recently wrapped up a consulting contract, auditing raw financial and operational metrics using SQL and Python to support investment decisions.
 
 Currently open to new roles in **Data Analytics, PPIC / Production Planning, Supply Chain Analytics, and Business Intelligence**.
 
