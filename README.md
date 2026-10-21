@@ -9,69 +9,68 @@
 
 ---
 
-### Hi there! 👋
+### About Me & How I Work 👋
 
-I bridge the gap between messy day-to-day operations and clean, actionable data.
+I work at the intersection of day-to-day operations and practical data analytics. I don't just work with clean datasets in a sandbox—my background comes from real, fast-paced operational environments like livestock feedlots, farms, and production floors where data is often fragmented or stuck across desktop spreadsheets.
 
-My background is a mix of animal science and operational data analytics. I graduated from **Universitas Gadjah Mada (UGM)** with a degree in Animal Science and Industry (GPA 3.76), where I spent years as a laboratory assistant in animal nutrition—formulating feed rations and analyzing experimental trial data with SPSS and Excel.
+I graduated from **Universitas Gadjah Mada (UGM)** in Animal Science and Industry (GPA 3.76). During college, I worked as a laboratory assistant at the Animal Nutrition Lab, where I spent several years formulating feed rations, understanding animal nutrition, and analyzing biological trial datasets using SPSS and Excel. That experience gave me a solid appreciation for how ground-level physical variables directly drive production economics.
 
-Over the past three years, I stepped directly into high-stakes operational planning:
-- **Head of PPIC & Analysis** across large-scale beef cattle feedlot operations, promoted twice within 12 months.
-- **Built data infrastructure from scratch**: when teams had no database, I built automated pipelines connecting Google Sheets through Apps Script into BigQuery and Looker Studio.
-- **Scaled data when Excel crashed**: when operational spreadsheets became too heavy, I spun up an Azure PostgreSQL pipeline linked directly to Excel templates, Power BI, and automated workflows.
-- **Enterprise ERP Rollouts**: validated opening balance ledgers and trained operational teams on Microsoft Dynamics 365 and Tally ERP.
-- **Investment & Business Auditing**: recently wrapped up a consulting contract, auditing raw financial and operational metrics using SQL and Python to support investment decisions.
+From there, I stepped into operations planning (PPIC) and analytics, focusing on practical solutions that help teams make better decisions:
 
-Currently open to new roles in **Data Analytics, PPIC / Production Planning, Supply Chain Analytics, and Business Intelligence**.
+- **Building from zero**: In a commercial feedlot operation that initially had no centralized database, I organized standardized input templates, wrote automated ingestion scripts using Google Apps Script to build a warehouse in Google BigQuery, and set up auto-updating Looker Studio dashboards for daily monitoring alongside the company's Tally ERP. Within 12 months, I was promoted twice to Head of PPIC.
+- **Scaling when local tools hit their limits**: In a larger enterprise livestock setting, daily operational logs became too heavy for standard Excel files to handle on local laptops. Since the organization was fully in the Microsoft ecosystem, I set up a dedicated Azure PostgreSQL database connected to clean Excel templates and Power BI dashboards, backed by lightweight automated flows and data validation during an enterprise Microsoft Dynamics 365 rollout.
+- **Investment & exploratory audits**: Recently wrapped up a consulting contract for an investment group, running exploratory audits and financial/operational data checks using SQL and Python to support investment decisions.
+
+Right now, I am actively open to new opportunities in **Data Analytics, PPIC / Production Planning, Supply Chain Analytics, and Business Intelligence**.
 
 ---
 
 ## 🚀 Featured Flagship Projects
 
-Here are four comprehensive operational and commercial analytics projects I built, combining end-to-end data modeling (Star Schema), executive narrative storytelling, and interactive Tableau dashboards.
+Here are four comprehensive operational and commercial analytics projects I developed, featuring end-to-end data modeling (Star Schema), executive narrative storytelling, and production-ready Tableau dashboards.
 
-| Project | Domain & Scale | Core Problem Solved | Links |
+| Project | Domain & Focus | Core Problem & Insight | Links |
 | :--- | :--- | :--- | :--- |
-| **Commercial Beef Feedlot Operations & Closeout Economics** | Agribusiness / Livestock<br/>`15,000 Head` • `90 Lots` • `40 Pens` | Solved carcass tonnage vs. quality grid arbitrage (Charolais yield beats Angus marbling bonus by +$94/hd), quantified winter thermal drag (saving +$49.82/hd in confinement barns), and identified the critical 30-day BRD pull window ($103/hd morbidity drag). | [Live Story](https://wijaya-rama.github.io/portfolio-feedlot-management/) • [Tableau](https://public.tableau.com/app/profile/rama.wijaya8072/vizzes) |
-| **Commercial Broiler Operations Hub** | Poultry Integration<br/>`72 Flocks` • `1.78M Birds` • `4,031 MT` | Audited the commercial performance divergence between Closed House and Open House units. Uncovered a +Rp 4,762/kg net margin gap, tracked microclimate heat stress (the "panting tax" burning feed without weight gain), and modeled late-mortality financial timing. | [Live Story](https://wijaya-rama.github.io/portfolio-smart-broiler/) • [Tableau](https://public.tableau.com/app/profile/rama.wijaya8072/vizzes) |
-| **Commercial Layer Operations & Egg Market Intelligence** | Commercial Layer<br/>`199,410 Pullets` • `60-Week Cycle` | Modeled egg-laying persistence across 3 regional hubs. Proved Closed Houses sustained $\ge 90\%$ production for 30 consecutive weeks (vs. 0 weeks in Open), cut feed conversion (FCR) to save IDR 1.7B per cycle, and analyzed shell defect kinetics caused by heat-induced respiratory alkalosis. | [Live Story](https://wijaya-rama.github.io/portfolio-layer-poultry/) • [Tableau](https://public.tableau.com/app/profile/rama.wijaya8072/vizzes) |
-| **Retail Workforce Productivity & Attrition Analysis** | People Analytics<br/>`2,000 Employees` • `24 Stores` • `2 Years` | Investigated store-level EBITDA drag from employee turnover. Quantified micromanagement attrition risk (48.8% turnover rate), identified scheduling inefficiencies in Express store formats, and tracked 20.7% star talent loss on the 9-Box grid (not compensation-driven). | [Live Story](https://wijaya-rama.github.io/portfolio-retail-workforce/) • [Tableau](https://public.tableau.com/app/profile/rama.wijaya8072/vizzes) |
+| **Commercial Beef Feedlot Operations & Closeout Economics** | Agribusiness / Livestock<br/>`15,000 Head` • `90 Lots` • `40 Pens` | Investigated closeout margin dynamics, carcass tonnage vs. quality grid arbitrage (yield beating marbling premiums), winter thermal drag mitigation in sheltered barns, and the financial impact of the 30-day BRD treatment window. | [Live Story](https://wijaya-rama.github.io/portfolio-feedlot-management/) • [Tableau](https://public.tableau.com/app/profile/rama.wijaya8072/vizzes) |
+| **Commercial Broiler Operations Hub** | Poultry Integration<br/>`72 Flocks` • `1.78M Birds` • `4,031 MT` | Audited commercial performance divergence between Closed House and Open House units. Analyzed net margin differences, microclimate heat stress (feed dissipation vs. growth), late-mortality timing, and the European Performance Index (EPEF / IP). | [Live Story](https://wijaya-rama.github.io/portfolio-smart-broiler/) • [Tableau](https://public.tableau.com/app/profile/rama.wijaya8072/vizzes) |
+| **Commercial Layer Operations & Egg Market Intelligence** | Commercial Layer<br/>`199,410 Pullets` • `60-Week Cycle` | Modeled full egg-laying persistence curves across regional production hubs. Evaluated Hen-Day peak sustainment, feed conversion efficiency (FCR), wholesale egg price sensitivity, and shell defect rates linked to tropical heat stress. | [Live Story](https://wijaya-rama.github.io/portfolio-layer-poultry/) • [Tableau](https://public.tableau.com/app/profile/rama.wijaya8072/vizzes) |
+| **Retail Workforce Productivity & Attrition Analysis** | People Analytics<br/>`2,000 Employees` • `24 Stores` • `2 Years` | Evaluated store-level labor cost structures and employee turnover. Quantified micromanagement attrition risk, evaluated scheduling efficiency across store formats, and analyzed star talent attrition patterns across the 9-Box grid. | [Live Story](https://wijaya-rama.github.io/portfolio-retail-workforce/) • [Tableau](https://public.tableau.com/app/profile/rama.wijaya8072/vizzes) |
 
 ---
 
-## 🛠️ Ground-Level Problem Solving (What I Actually Built)
+## 🛠️ Practical Problem-Solving (Stories from the Ground)
 
-Theoretical models are great, but operational data in the field is usually messy, fragmented, or stuck in desktop spreadsheets. Here is how I solved real operational bottlenecks on the job:
+Theoretical dashboards are straightforward when data is already clean, but field operations are usually messy. Here is how I approached real operational bottlenecks:
 
-### 1. PT Indo Prima Beef — Building a Warehouse & Reporting Stack from Zero
-* **The Situation**: The company tracked daily cattle movements, feed ingredients, and farm transactions across scattered spreadsheets with no central database.
-* **The Solution**: 
-  - Standardized all input sheets and deployed automated scripts via **Google Apps Script**.
-  - Built a centralized operational database in **Google BigQuery**.
-  - Created automated, auto-updating dashboards in **Looker Studio** for daily inventory, feeding schedules, and sales realization.
-  - Worked alongside **Tally ERP** to audit and ensure zero discrepancy between physical stock and digital ledgers.
+### 1. From Messy Spreadsheets to a Centralized Cloud Warehouse
+* **The Challenge**: Daily livestock counts, feed ingredients, and warehouse movements were logged across separate sheets without a central database, making daily reporting manual and error-prone.
+* **How I Solved It**:
+  - Reorganized and locked down standardized daily input templates.
+  - Automated data ingestion using **Google Apps Script** to pipe clean daily records into **Google BigQuery**.
+  - Built auto-updating reports in **Looker Studio** for daily inventory, feeding schedules, and sales realization.
+  - Aligned daily inputs with the company's **Tally ERP** to maintain accurate physical and digital stock reconciliation.
 
-### 2. PT Indonesia Livestock Operations — Taming Heavy Data with Azure PostgreSQL
-* **The Situation**: Operational and cattle telemetry logs grew so large that master Excel workbooks constantly froze and crashed on company laptops.
-* **The Solution**:
-  - Moved heavy data storage and transformations off desktop Excel into a managed **Azure PostgreSQL** database.
-  - Connected PostgreSQL views back into lightweight Excel templates and **Power BI** dashboards for management reporting.
-  - Set up lightweight automation using **Power Automate / Flow** for routine alerts and cross-sheet synchronization.
-  - Played a key role in the enterprise **Microsoft Dynamics 365** rollout: audited historical balances, reconciled opening ledger entries, and trained local team members on daily data input routines.
+### 2. Taming Large Operational Data Volumes with PostgreSQL
+* **The Challenge**: As operational logs expanded, complex master workbooks regularly froze and crashed on standard office laptops.
+* **How I Solved It**:
+  - Moved high-volume data storage and transformation off local laptops into a cloud **Azure PostgreSQL** database.
+  - Structured SQL views that fed back into lightweight **Excel** templates and **Power BI** dashboards for management review.
+  - Built simple automated triggers using **Power Automate / Flow** for routine alerts and cross-file updates.
+  - Assisted during an enterprise **Microsoft Dynamics 365** rollout: checked opening balance data accuracy and trained team members on daily transaction inputs.
 
-### 3. AAM Investment Group — Investment Data Quality & Exploratory Audits
-* Conducted remote analytical audits on confidential commercial and financial datasets using **Python (Pandas)** and **SQL**.
-* Cleaned inconsistent historical data points, flagged variance anomalies, and prepared verified summary metrics for executive decision-makers.
+### 3. Investment & Operational Data Quality Audits
+* Conducted remote analytical reviews on business datasets using **Python (Pandas)** and **SQL**.
+* Reconciled discrepancies in historical transaction records and delivered clean, verified summary metrics for decision-makers.
 
 ---
 
 ## 🧰 Technical Skills & Tools
 
-- **Data Analysis & Modeling**: SQL (PostgreSQL, Google BigQuery, MySQL), Python (Pandas, NumPy), Advanced Excel (Power Query, Data Modeling, Pivot, Dynamic Arrays), SPSS.
-- **Business Intelligence & Dashboards**: Tableau Desktop & Public, Power BI, Looker Studio, Streamlit, Bento Grid Web Storyboards.
-- **Data Engineering & Automation**: Google Apps Script, Azure PostgreSQL, Power Automate, ETL pipeline design, Star Schema architecture.
-- **Enterprise ERP Platforms**: Microsoft Dynamics 365 (F&O / Supply Chain), Tally ERP.
-- **Domain Specializations**: Production Planning & Inventory Control (PPIC), Material Requirements Planning (MRP), Ration Formulation & Feedlot Nutrition, Agribusiness Analytics, People Analytics.
+- **Data Analysis & Programming**: SQL (PostgreSQL, Google BigQuery, MySQL), Python (Pandas, NumPy), Advanced Excel (Power Query, Data Modeling, Pivot, Dynamic Formulas), SPSS.
+- **Business Intelligence & Reporting**: Tableau Desktop & Public, Power BI, Looker Studio, Streamlit, Bento Grid Web Storyboards.
+- **Data Engineering & Automation**: Google Apps Script, Azure PostgreSQL, Power Automate / Flows, ETL pipeline design, Star Schema data modeling.
+- **Enterprise ERP Systems**: Microsoft Dynamics 365, Tally ERP.
+- **Domain Focus**: Production Planning & Inventory Control (PPIC), Material Requirements Planning (MRP), Ration Formulation & Animal Nutrition, Agribusiness Analytics, People Analytics.
 
 ---
 
@@ -80,21 +79,21 @@ Theoretical models are great, but operational data in the field is usually messy
 - **Universitas Gadjah Mada (UGM)** | *2016 – 2023*  
   **Bachelor of Science in Animal Science and Industry** (IPK / GPA: **3.76 / 4.00**)  
   *Research & Laboratory Assistant, Livestock Nutrition Laboratory (2018 – 2021)*  
-  Hands-on feed ration formulation, trial design, biological sampling, and statistical validation in SPSS & Excel.
+  Focused on feed formulation, trial design, biological sampling, and statistical analysis (SPSS & Excel).
 
-- **Continuous Learning & Certifications**:  
+- **Training & Continuous Learning**:  
   - DQLab Data Science Trainee: Python, MySQL, Data Analysis  
   - Fundamental SQL & Text Processing in MySQL  
-  - Kaggle Data Science Contributor
+  - Kaggle Contributor
 
 ---
 
 ## 📬 Contact & Let's Connect
 
-I'm always keen to chat about data challenges, operational efficiency, feedmill/farm economics, or potential collaboration.
+I'm always glad to talk about operations planning, data pipelines, agribusiness analytics, or potential opportunities.
 
 - **Email**: [ramawijaya.business@gmail.com](mailto:ramawijaya.business@gmail.com)
 - **LinkedIn**: [linkedin.com/in/ramawijaya1](https://www.linkedin.com/in/ramawijaya1)
 - **Tableau Public**: [Rama Wijaya's Visualizations](https://public.tableau.com/app/profile/rama.wijaya8072/vizzes)
 - **WhatsApp / Mobile**: +62 857 8303 8095
-- **Location**: Jepara, Central Java, Indonesia (Open to remote work or on-site relocation)
+- **Location**: Jepara, Central Java, Indonesia (Open to remote work or relocation)
